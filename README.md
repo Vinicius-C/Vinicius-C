@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinicius-C
 - 👀 I’m interested in Coding, Physics and Technology in General
-- 🌱 I’m currently learning about AWS, VUE, React, NestJs/Node, SQS, Redis, NoSQL, Parallel Computing, General Relativity and etc.
+- 🌱 I’m currently learning about AWS, VUE, React, NestJs/Node, SQS, Redis, NoSQL, Parallel Computing, Neural Networks (PyTorch), Flutter, General Relativity and etc.
 - 💞️ I’m collaborating on Santuu Project
 - 📫 How to reach me: vinicius_caina@live.com
