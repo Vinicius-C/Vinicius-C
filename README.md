@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Vinicius-C
+- 🛠️ Building a system with a mobile app and a hardware (used to control a electronic lock) to automate sales using a freezer for buildings (C++, ESP32, Flutter, NestJS, MySQL, AWS)
 - 👀 I’m interested in Coding, Physics and Technology in General
-- 🌱 I’m currently learning about AWS, VUE, React, NestJs/Node, SQS, Redis, NoSQL, Parallel Computing, Neural Networks (PyTorch), Flutter, General Relativity and etc.
+- 🌱 I’m currently learning about AWS, VUE, Angular, Laravel, React, NestJs/Node, SQS, Redis, NoSQL, Parallel Computing, Neural Networks (PyTorch), Flutter, General Relativity and etc.
 - 💞️ I’m collaborating on Santuu Project
 - 📫 How to reach me: vinicius_caina@live.com
