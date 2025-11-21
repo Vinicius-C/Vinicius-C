@@ -2,5 +2,5 @@
 - 🛠️ Building a system with a mobile app and a hardware (used to control a electronic lock) to automate sales using a freezer for buildings (C++, ESP32, Flutter, NestJS, MySQL, AWS)
 - 👀 I’m interested in Coding, Physics, Cripto and Technology in General
 - 🌱 I’m currently learning about AWS, VUE, Angular, Laravel, React, NestJs/Node, SQS, Redis, NoSQL, Parallel Computing, Neural Networks (PyTorch), Flutter, Bitcoin, DeFi, General Relativity and etc.
-- 💞️ I’m collaborating on Santuu Project
+- 💞️ I’m collaborating on Santuu and Bitt+
 - 📫 How to reach me: vinicius_caina@live.com
